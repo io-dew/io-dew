@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8waGJzZTVjZW12dDNhNm42MHJ2czM5eWIweXo0Z3BxeHZtcXhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="342"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8waGJzZTVjZW12dDNhNm42MHJ2czM5eWIweXo0Z3BxeHZtcXhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="180"/>
 </div>
 
         
@@ -18,7 +18,24 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=io-dew&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hello 
+    Hello, guys! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ6MDVjNmxlM2lncXl0aDl5c3hjMGhrZzR3eDZkMzA4bnBtanRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyp0k7WuLz79is0azg/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+
+I am 15 y.o. Developer from Russia <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo2bXpyMW90ZmFxZGhnOHdkZmk5NWh6d3J3MWVvcG55ODl2OWVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9Kh03BS3cjZjxeBrn/giphy.gif" width="30">.
+
+- :telescope: I really enjoy low-level programming in C and Assembly. I'm writing a free OS from scratch—I call it BoxOS.
+
+- :seedling: I love creating something special and new that will make people's lives better.
+
+- :zap: In my free time I fix bugs in my OS or write some small projects.
+
+- :mailbox: My Gmail: <img src="https://img.shields.io/badge/Gmail-grey?logo=Gmail&logoColor=white&style=plastic" alt="Gmail Badge"/>
